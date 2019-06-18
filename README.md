@@ -1,6 +1,6 @@
 ## About Me
 
-You can use the [editor on GitHub](https://github.com/janinemator/janinemator.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! My name is Janine, and I'm a PhD student studying Human Factors at [Old Dominion University](https://www.odu.edu/psychology/academics/human-factors).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
