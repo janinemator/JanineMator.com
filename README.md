@@ -1,8 +1,5 @@
 <p align="center">
   <img width="300" height="300" src="https://i.imgur.com/sR0NsP8.jpg">
- 
-</p>
-![Image](https://i.imgur.com/sR0NsP8.jpg)
 
 ## About Me
 
