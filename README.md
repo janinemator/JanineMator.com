@@ -4,6 +4,8 @@ Hello! My name is Janine, and I'm a PhD student studying Human Factors at [Old D
 
 I have also enjoyed studying human behavior in virtual reality, a hobby of mine. During my first year, I took the lead on a follow-on project to examine user trust following human-robot interactions within a virtual environment. I have also had the pleasure of working alongside Promena VR in Grand Rapids to explore the various benefits of virtual reality in mental health settings.
 
+<!-- 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -35,3 +37,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+ -->
