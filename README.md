@@ -4,7 +4,8 @@ Hello! My name is Janine, and I'm a PhD student studying Human Factors at [Old D
 
 I have also enjoyed studying human behavior in virtual reality, a hobby of mine. During my first year, I took the lead on a follow-on project to examine user trust following human-robot interactions within a virtual environment. I have also had the pleasure of working alongside Promena VR in Grand Rapids to explore the various benefits of virtual reality in mental health settings.
 
-## [Contact Me](https://forms.gle/6MU9LB2sr26114Ex6)
+## Contact Me
+Drop me a line [here](https://forms.gle/6MU9LB2sr26114Ex6).
 
 
 <!---
