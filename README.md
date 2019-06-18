@@ -1,5 +1,5 @@
 
-![Image](https://i.imgur.com/QfDm4sI.jpg)
+![Image](https://i.imgur.com/sR0NsP8.jpg)
 
 ## About Me
 
