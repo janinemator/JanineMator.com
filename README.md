@@ -1,8 +1,8 @@
 ## About Me
 
-Hello! My name is Janine, and I'm a PhD student studying Human Factors at [Old Dominion University](https://www.odu.edu/psychology/academics/human-factors).
+Hello! My name is Janine, and I'm a PhD student studying Human Factors at [Old Dominion University](https://www.odu.edu/psychology/academics/human-factors). As a member of the [Psychology of Design Lab](http://www.psychofdesign.com/), I am interested in secure, user-friendly alternatives to alphanumeric passwords. In the past, I have worked alongside Promena VR in Grand Rapids to explore the benefits of various virtual environments in mental health. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am also the webmaster (webmistress?) and PR manager of the [student HFES chapter at ODU](https://www.oduhfes.com/). 
 
 ### Markdown
 
