@@ -1,8 +1,9 @@
 ## About Me
 
-Hello! My name is Janine, and I'm a PhD student studying Human Factors at [Old Dominion University](https://www.odu.edu/psychology/academics/human-factors). As a member of the [Psychology of Design Lab](http://www.psychofdesign.com/), I am interested in secure, user-friendly alternatives to alphanumeric passwords. In the past, I have worked alongside Promena VR in Grand Rapids to explore the benefits of various virtual environments in mental health. 
+Hello! My name is Janine, and I'm a PhD student studying Human Factors at [Old Dominion University](https://www.odu.edu/psychology/academics/human-factors). As a member of the [Psychology of Design Lab](http://www.psychofdesign.com/), my interest in usability has led to first-authorship of a literature review on usability across several domains, including cybersecurity, transportation, telehealth, and aging and autistic populations (currently pending review). My research aims within the Psychology of Design Lab involve graphical authentication as a secure, user-friendly alternative to alphanumeric passwords. I am also the webmaster (webmistress?) and PR manager of the [student HFES chapter at ODU](https://www.oduhfes.com/). 
 
-I am also the webmaster (webmistress?) and PR manager of the [student HFES chapter at ODU](https://www.oduhfes.com/). 
+I have also enjoyed studying human behavior in virtual reality. During my first year, I took the lead on a follow-on project to examine 
+user trust following human-robot interactions within a virtual environment. I have also had the pleasure of working alongside Promena VR in Grand Rapids to explore the various benefits of virtual reality in mental health settings.
 
 ### Markdown
 
