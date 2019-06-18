@@ -1,5 +1,11 @@
 
 ![Image](https://i.imgur.com/sR0NsP8.jpg)
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 ## About Me
 
