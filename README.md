@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="300" height="300" src="https://i.imgur.com/sR0NsP8.jpg">
-
 ## About Me
 
 Hello! My name is Janine, and I'm a PhD student studying Human Factors at [Old Dominion University](https://www.odu.edu/psychology/academics/human-factors). As a member of the [Psychology of Design Lab](http://www.psychofdesign.com/), my interest in usability has led to first authorship of a literature review on usability across several domains, including cybersecurity, transportation, telehealth, and aging and autistic populations (currently pending review). My research aims within the Psychology of Design Lab involve graphical authentication as a secure, user-friendly alternative to alphanumeric passwords. I am also the webmaster (webmistress?) and PR manager of the [student HFES chapter at ODU](https://www.oduhfes.com/). 
