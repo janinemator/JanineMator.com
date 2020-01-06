@@ -6,7 +6,8 @@ description: Hello! I'm Janine, a usability researcher in Norfolk, VA.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Janine Mator
-profile_picture: /assets/images/J0riMTk.png
+
+<div class="4u"><span class="image fit"><img src="/assets/images/J0riMTk.png" alt="" /></span></div>
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
