@@ -4,7 +4,7 @@ subtitle:
 email: youremailaddress@gmail.com
 description: Hello! I'm Janine, a usability researcher in Norfolk, VA.
 baseurl: /JanineMator.com-Forty-Theme- # the subpath of your site, e.g. /blog
-url: https://janinemator.github.io/JanineMator.com-Forty-Theme- # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author: Janine Mator
 logo: /assets/images/J0riMTk.png
 
