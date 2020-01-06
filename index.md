@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Janine Mator'
 description: null
-image: null
+image: assets/images/J0riMTk.png
 author: null
 show_tile: false
 ---
