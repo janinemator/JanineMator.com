@@ -50,7 +50,7 @@ nav-menu: true
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
-<!-- Text stuff -->
+<!-- Text stuff
 <h3>Text</h3>
 <p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
@@ -400,7 +400,7 @@ while (!deck.isInOrder()) {
     i++;
 }
 
-print 'It took ' + i + ' iterations to sort the deck.';
+print 'It took ' + i + ' iterations to sort the deck.'; 
 </code></pre>
 
 </div>
@@ -410,3 +410,4 @@ print 'It took ' + i + ' iterations to sort the deck.';
 </section>
 
 </div>
+-->
