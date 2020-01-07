@@ -300,7 +300,7 @@ Finally, this is a <a href="#">link</a>.</p>
 	<li><span class="button disabled">Default</span></li>
 </ul>-->
 
-<!-- Form -
+<!-- Form
 <h3>Form</h3>
 
 <form method="post" action="#">
@@ -349,7 +349,7 @@ Finally, this is a <a href="#">link</a>.</p>
 		<div class="12u$">
 			<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
 		</div>
-		<!-- Break -->
+		<!-- Break
 		<div class="12u$">
 			<ul class="actions">
 				<li><input type="submit" value="Send Message" class="special" /></li>
@@ -382,7 +382,7 @@ Finally, this is a <a href="#">link</a>.</p>
 
 <h4>Left &amp; Right</h4>
 <p><span class="image left"><img src="assets/images/pic09.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right"><img src="assets/images/pic10.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>-->
+<p><span class="image right"><img src="assets/images/pic10.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p> -->
 
 <!-- Box 
 <h3>Box</h3>
@@ -409,5 +409,4 @@ print 'It took ' + i + ' iterations to sort the deck.';
 </div>
 </section>
 
-</div>
--->
+</div> -->
