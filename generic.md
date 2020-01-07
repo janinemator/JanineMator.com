@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Projects
-description: Designs & group work
+description:
 image: assets/images/groups.jpg
 nav-menu: true
 ---
