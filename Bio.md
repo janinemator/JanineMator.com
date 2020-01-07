@@ -311,7 +311,7 @@ Finally, this is a <a href="#">link</a>.</p>
 		<div class="6u$ 12u$(xsmall)">
 			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
 		</div>
-		<!-- Break -->
+		<!-- Break 
 		<div class="12u$">
 			<div class="select-wrapper">
 				<select name="demo-category" id="demo-category">
@@ -322,8 +322,8 @@ Finally, this is a <a href="#">link</a>.</p>
 					<option value="1">Human Resources</option>
 				</select>
 			</div>
-		</div>
-		<!-- Break -->
+		</div>-->
+		<!-- Break 
 		<div class="4u 12u$(small)">
 			<input type="radio" id="demo-priority-low" name="demo-priority" checked>
 			<label for="demo-priority-low">Low</label>
@@ -335,8 +335,8 @@ Finally, this is a <a href="#">link</a>.</p>
 		<div class="4u$ 12u$(small)">
 			<input type="radio" id="demo-priority-high" name="demo-priority">
 			<label for="demo-priority-high">High</label>
-		</div>
-		<!-- Break -->
+		</div>-->
+		<!-- Break 
 		<div class="6u 12u$(small)">
 			<input type="checkbox" id="demo-copy" name="demo-copy">
 			<label for="demo-copy">Email me a copy</label>
@@ -344,8 +344,8 @@ Finally, this is a <a href="#">link</a>.</p>
 		<div class="6u$ 12u$(small)">
 			<input type="checkbox" id="demo-human" name="demo-human" checked>
 			<label for="demo-human">I am a human</label>
-		</div>
-		<!-- Break -->
+		</div>-->
+		<!-- Break 
 		<div class="12u$">
 			<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
 		</div>
