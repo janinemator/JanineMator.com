@@ -2,7 +2,7 @@
 title: Research
 layout: landing
 description: 
-image: assets/images/promena.png
+image: assets/images/promena1.png
 nav-menu: true
 ---
 
