@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bio
+image: assets/images/nintendo.jpg
 nav-menu: true
 ---
 
