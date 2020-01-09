@@ -26,7 +26,7 @@ nav-menu: true
 				<!--<header class="major">
 					<h3>A bit about me</h3>
 				</header>-->
-				<p>I am a second-year graduate student studying human factors and usability at Old Dominion University, where my current research relates to human performance in graphical and text-based authentication. I have also conducted a study of human behavior in virtual environments to explore trust in robotic agents. Along with HCI, cybersecurity and virtual reality, I am also interested in interface design and game-based training. I tend to draw inspiration from Dribbble, Behance, and even some video games. (A few of my current favorites are Little Nightmares, Don’t Starve Together, and KH3.)</p>
+				<p>I am a second-year graduate student studying human factors and usability at Old Dominion University, where my current research relates to human performance in graphical and text-based authentication. I have also conducted a study of human behavior in virtual environments to explore trust in robotic agents. Along with HCI, cybersecurity and virtual reality, I am also interested in interface design and game-based training. I tend to draw inspiration from Dribbble, Behance, and even some video games. (A few of my current favorites are Little Nightmares, Don’t Starve Together, and KH3.) <br> To learn more about my past and current research at Old Dominion, check out my Research page. For some examples of my work outside the laboratories, look for the Projects page. If you have any questions or ideas for me, <a href="https://forms.gle/bMq77pzgXhmx9tsK6"><u>I'd love to hear from you!</u></a> </p>
 			</div>
 		</div>
 	</section>
