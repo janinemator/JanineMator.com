@@ -18,8 +18,8 @@ nav-menu: true
 <!-- Content -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/desk.jpg" alt="" data-position="center center" />
+		<!--<a href="generic.html" class="image">
+			<img src="assets/images/desk.jpg" alt="" data-position="center center" />-->
 		</a>
 		<div class="content">
 			<div class="inner">
