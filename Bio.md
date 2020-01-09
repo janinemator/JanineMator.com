@@ -23,9 +23,9 @@ nav-menu: true
 		</a>-->
 		<div class="content">
 			<div class="inner">
-				<header class="major">
+				<!--<header class="major">
 					<h3>A bit about me</h3>
-				</header>
+				</header>-->
 				<p>I am a second-year graduate student studying human factors and usability at Old Dominion University, where my current research relates to human performance in graphical and text-based authentication. I have also conducted a study of human behavior in virtual environments to explore trust in robotic agents. Along with HCI, cybersecurity and virtual reality, I am also interested in interface design and game-based training. I tend to draw inspiration from Dribbble, Behance, and even some video games. (A few of my current favorites are Little Nightmares, Don’t Starve Together, and KH3.)</p>
 			</div>
 		</div>
