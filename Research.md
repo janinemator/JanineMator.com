@@ -44,9 +44,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Usability Literature Review</h3>
+					<h3>Usability</h3>
 				</header>
-				<p>Last fall, I took on a leadership role to develop a literature review of usability across several domains, including cybersecurity, transportation, telehealth, and aging and autistic populations. For each topic, I received an independent literature review from one of my peers in HCI. Using the findings from all six reviews, I authored an overview of the value, adoption, and measurement of usability. I also guided my classmates through the optimal literature review process and provided guidance throughout the semester to ensure that our research remained coherent. Our manuscript has been accepted by the Journal of Human Factors, and we look forward to seeing our publication in the upcoming special issue!</p>
+				<p>Last fall, I took on a leadership role to develop a literature review of usability across several domains, including cybersecurity, transportation, telehealth, and aging and autistic populations. For each topic, I received an independent literature review from a fellow peer in Human-Computer Interaction. Using the findings from all six reviews, I authored an overview of the value, adoption, and measurement of usability. I also guided my classmates through the optimal literature review process and provided guidance throughout the semester to ensure that our research remained coherent. Our manuscript has been accepted by the Journal of Human Factors, and we look forward to seeing our publication in the upcoming special issue!</p>
 				<!--<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>-->
@@ -60,7 +60,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Virtual Reality</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
