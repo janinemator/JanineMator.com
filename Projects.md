@@ -48,23 +48,20 @@ nav-menu: true
 				<header class="major">
 					<h3>Use Your Illusion</h3>
 				</header>
-				<p>In terms of login speed, Use Your Illusion (first developed by Hayashi et al., 2008), is an especially promising scheme for graphical authentication. The user is assigned a passcode of three images, whose quality is then degraded to prevent over-the-shoulder attacks. To authenticate, the user must select his or her passcode images from a grid of distractor images, which are also degraded. However, Tiller et al. (2018) suggest  that the current level of image degradation may be too great for users to remember. Following their <a href="https://link.springer.com/chapter/10.1007/978-3-319-94782-2_9">design recommendations</a>, I developed my own version of a UYI-based login.</p>
+				<p>In terms of login speed, Use Your Illusion (first developed by Hayashi et al., 2008), is an especially promising scheme for graphical authentication. The user is assigned a passcode of three images, whose quality is then degraded to prevent over-the-shoulder attacks. To authenticate, the user must select his or her passcode images from a grid of distractor images, which are also degraded. However, Tiller et al. (2018) suggest  that the current level of image degradation may be too great for users to remember. Following their <a href="https://link.springer.com/chapter/10.1007/978-3-319-94782-2_9">design recommendations</a>, I developed my own version of a UYI-based login using Pexels open-source images, GIMP graphics editor, and Paradigm research software.</p>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/tshirt.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Logo Design</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>In my free time, I volunteer as webmaster for the Human Factors and Ergonomics Society student chapter at Old Dominion University. This year, I was also proud to win the logo redesign contest. I thought to myself that our original logo needed some more modern, eye-grabbing rework, so I came up with a variety of designs. We're very excited to receive our new t-shirts!</p>
 			</div>
 		</div>
 	</section>
