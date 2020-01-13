@@ -17,14 +17,14 @@ nav-menu: true
 			<h2></h2>
 		</header>-->
 		<p>Here are a few of my most recent hands-on projects.</p>
-	</div>
+	<!--</div>
 </section>-->
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-				<img src="assets/images/Flickr2.JPG" alt="" data-position="center center" />
+				<img src="assets/images/flick.JPG" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -79,6 +79,4 @@ nav-menu: true
 		</ul>
 	</div>
 </section>-->
-
-</div>
 
