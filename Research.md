@@ -55,7 +55,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/vr.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -64,8 +64,8 @@ nav-menu: true
 				</header>
 				<p>During my first year in the program, I led a follow-on virtual reality study originally funded by the Air Force Office of Scientific Research. After teaching participants how to navigate and interact with the virtual environment, they completed a simple shopping game in an outdoor marketplace. Throughout this task, participants were approached by robotic agents who asked them to surrender a non-lethal weapon. My primary interest in this study was how participants’ compliance might be affected by robotic the peacekeepers’ level of anthropomorphism. Additionally, I was interested in possible effects of the virtual environment on simulator sickness among Chinese or Japanese participants, as Asian populations are known to be especially susceptible. Although data collection ended with the retirement of my research adviser on this project, I greatly enjoyed running a VR study of my own. In the past, I have also assisted with research at Promena VR, a virtual reality-based therapy center in Grand Rapids, Michigan. Along with the company founder and CEO of Promena, I wrote a book chapter on virtual reality-based behavioral interventions for special populations.</p>
 				<!--<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>-->
-				</ul>
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>-->
 			</div>
 		</div>
 	</section>
@@ -75,12 +75,13 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>...and more!</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
+		<p>
+			Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<!--<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+		</ul>-->
 	</div>
 </section>
 
