@@ -16,7 +16,7 @@ nav-menu: true
 		<!--<header class="major">
 			<h2></h2>
 		</header>-->
-		<!--<p>Here are a few recent projects I've worked on <i>outside</i> the lab.</p>
+		<p>Here are a few of my most recent hands-on projects.</p>
 	</div>
 </section>-->
 
