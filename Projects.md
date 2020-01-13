@@ -48,7 +48,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Use Your Illusion</h3>
 				</header>
-				<p>In terms of login speed, Use Your Illusion (first developed by Hayashi et al., 2008), is an especially promising scheme for graphical authentication. The user is assigned a passcode of three images, whose quality is then degraded to prevent over-the-shoulder attacks. To authenticate, the user must select his or her passcode images from a grid of distractor images, which are also degraded. However, Tiller et al. (2018) suggest  that the current level of image degradation may be too great for users to remember. (https://link.springer.com/chapter/10.1007/978-3-319-94782-2_9). Following these design recommendations, I developed my own version of a UYI-based login.</p>
+				<p>In terms of login speed, Use Your Illusion (first developed by Hayashi et al., 2008), is an especially promising scheme for graphical authentication. The user is assigned a passcode of three images, whose quality is then degraded to prevent over-the-shoulder attacks. To authenticate, the user must select his or her passcode images from a grid of distractor images, which are also degraded. However, Tiller et al. (2018) suggest  that the current level of image degradation may be too great for users to remember. Following their <a href="https://link.springer.com/chapter/10.1007/978-3-319-94782-2_9">design recommendations</a>, I developed my own version of a UYI-based login.</p>
 			</div>
 		</div>
 	</section>
