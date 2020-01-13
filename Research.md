@@ -62,9 +62,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Virtual Reality</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+				<p>During my first year in the program, I led a follow-on virtual reality study originally funded by the Air Force Office of Scientific Research. After teaching participants how to navigate and interact with the virtual environment, they completed a simple shopping game in an outdoor marketplace. Throughout this task, participants were approached by robotic agents who asked them to surrender a non-lethal weapon. My primary interest in this study was how participants’ compliance might be affected by robotic the peacekeepers’ level of anthropomorphism. Additionally, I was interested in possible effects of the virtual environment on simulator sickness among Chinese or Japanese participants, as Asian populations are known to be especially susceptible. Although data collection ended with the retirement of my research adviser on this project, I greatly enjoyed running a VR study of my own. In the past, I have also assisted with research at Promena VR, a virtual reality-based therapy center in Grand Rapids, Michigan. Along with the company founder and CEO of Promena, I wrote a book chapter on virtual reality-based behavioral interventions for special populations.</p>
+				<!--<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>-->
 				</ul>
 			</div>
 		</div>
