@@ -54,14 +54,14 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/tshirt.png" alt="" data-position="25% 25%" />
+			<img src="assets/images/hfes.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Logo Design</h3>
+					<h3>ODU HFES Logo Design</h3>
 				</header>
-				<p>In my free time, I volunteer as webmaster for the Human Factors and Ergonomics Society student chapter at Old Dominion University. This year, I was also proud to win the logo redesign contest. I thought to myself that our original logo needed some more modern, eye-grabbing rework, so I came up with a variety of designs. We're very excited to receive our new t-shirts!</p>
+				<p>In my free time, I volunteer as webmaster for the Human Factors and Ergonomics Society student chapter at Old Dominion University. This year, I was also proud to win the logo redesign contest. I thought to myself that our original logo needed some more modern, eye-grabbing rework, so I came up with a variety of designs. This is the one that stuck!</p>
 			</div>
 		</div>
 	</section>
