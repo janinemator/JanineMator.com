@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/keyboard.jpg" alt="" data-position="center center" />
+			<img src="assets/images/keyboard2.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
