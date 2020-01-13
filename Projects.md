@@ -13,9 +13,9 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
+		<!--<header class="major">
 			<h2></h2>
-		</header>
+		</header>-->
 		<p>Here are a few recent projects I've worked on <i>outside</i> the lab.</p>
 	</div>
 </section>
@@ -24,7 +24,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/Flickr.jpg" alt="" data-position="center center" />
+			<img src="assets/images/Flickr.JPG" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
