@@ -46,8 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Usability Literature Review</h3>
 				</header>
-				<p>This year, I took on a leadership role within a Human-Computer Interaction graduate course to develop a literature review journal manuscript. I helped classmates learn how to perform a literature review and provided guidance throughout the semester to ensure that our research remained coherent. As the first author, I integrated independent literature reviews into an
-overview of the value, adoption, and measurement of usability across five different domains: cybersecurity, transportation, telehealth, and aging and autistic populations. Our manuscript has been accepted by the Journal of Human Factors, and we look forward to seeing our publication in the upcoming special issue!</p>
+				<p>This year, I took on a leadership role to develop a literature review of usability across several domains, including cybersecurity, transportation, telehealth, and aging and autistic populations. For each topic, I received an independent literature review from one of my peers in HCI. Using the findings from all six reviews, I authored an overview of the value, adoption, and measurement of usability. I also guided my classmates through the optimal literature review process and provided guidance throughout the semester to ensure that our research remained coherent. Our manuscript has been accepted by the Journal of Human Factors, and we look forward to seeing our publication in the upcoming special issue!</p>
 				<!--<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>-->
