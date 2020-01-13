@@ -24,8 +24,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<p class="aligncenter">
-				<img src="assets/images/Flickr.JPG" alt="" data-position="center center" /></p>
+				<img src="assets/images/Flickr.JPG" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
