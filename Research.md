@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/uyi.jpg" alt="" data-position="center center" />
+			<img src="assets/images/uyi.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -31,9 +31,9 @@ nav-menu: true
 					<h3>Cybersecurity</h3>
 				</header>
 				<p>As a member of the <a href="http://www.psychofdesign.com/">Psychology of Design Laboratory</a> at Old Dominion University, my master's thesis work is concerned with usable cybersecurity. One of the greatest weaknesses of text-based passwords is the increasing list of demands to make them stronger: longer character minimums, requirements for special characters and numbers, etc. While such passwords may be more resistant to brute-force attacks, they are also more resistant to the user's memory. Of course, many users find workarounds by using the same "strong" password across multiple accounts. However, this means that if one database is breached, that user's privacy is compromised many times over. Graphical authentication, on the other hand, uses picture-based passwords that are easier to remember than text-based passwords. In my current study, I compare both methods of authentication on user-reported satisfaction. I also explore the impact of a newly assigned text- and picture-based password/passcode on working memory recall to inform usability in applied settings.</p>
-				<ul class="actions">
+				<!--<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				</ul>-->
 			</div>
 		</div>
 	</section>
