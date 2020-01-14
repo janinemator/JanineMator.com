@@ -65,9 +65,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
-
-<section>
+	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/controller.png" alt="" data-position="center center" />
 		</a>
