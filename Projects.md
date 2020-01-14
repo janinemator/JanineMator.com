@@ -79,7 +79,7 @@ nav-menu: true
 		</div>
 	</section>
 <!--<a href="generic.html" class="image">
-			<img src="assets/images/uyi2.png" alt="" data-position="top center" />
+			<img src="assets/images/uyi2.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
