@@ -67,6 +67,18 @@ nav-menu: true
 	</section>
 </section>
 
+<!--<a href="generic.html" class="image">
+			<img src="assets/images/uyi2.png" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Discrete Event Simulation of a Playtest</h3>
+				</header>
+				<p>In terms of login speed, Use Your Illusion (first developed by Hayashi et al., 2008), is an especially promising scheme for graphical authentication. The user is assigned a passcode of three images, whose quality is then degraded to prevent over-the-shoulder attacks. To authenticate, the user must select his or her passcode images from a grid of distractor images, which are also degraded. However, Tiller et al. (2018) suggest  that the current level of image degradation may be too great for users to remember. Following their <a href="https://link.springer.com/chapter/10.1007/978-3-319-94782-2_9">design recommendations</a>, I developed my own version of a UYI-based login using Pexels open-source images, GIMP graphics editor, and Paradigm research software.</p>
+			</div>
+		</div>-->
+
 <!-- Three -->
 <!--<section id="three">
 	<div class="inner">
