@@ -30,6 +30,8 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<p>"Most creativity is a transition from one context into another, where things are more surprising. There’s an element of surprise -- and especially in science, there is often laughter that goes along with the 'Aha.' Art also has this element. Our job is to remind us that there are more contexts than the one that we’re in." - Alan Kay</p>
+
 	
 <!--
 <h2 id="content">Sample Content</h2>
