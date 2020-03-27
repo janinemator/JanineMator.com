@@ -61,7 +61,7 @@ nav-menu: true
 				<header class="major">
 					<h3>ODU HFES Logo Design</h3>
 				</header>
-				<p>In my free time, I volunteer as webmaster for the Human Factors and Ergonomics Society student chapter at Old Dominion University. This year, I was also proud to win the logo redesign contest. I thought to myself that our original logo needed some more modern, eye-grabbing rework, so I came up with a variety of designs. This is the one that stuck!</p>
+				<p>In my free time, I volunteer as webmaster for the Human Factors and Ergonomics Society student chapter at Old Dominion University. This year, I was also proud to win the logo redesign contest. I thought to myself that our original logo needed some modern, eye-grabbing rework, so I came up with a variety of designs. This is the one that stuck!</p>
 			</div>
 		</div>
 	</section>
