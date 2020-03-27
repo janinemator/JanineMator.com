@@ -78,6 +78,19 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/GlassHouse.png" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>GlassHouse</h3>
+				</header>
+				<p>Thousands of users have invested in smart home security devices to protect themselves and their physical belongings. However, many users are not aware of weaknesses in <i>cyber</i> security due to high-risk default settings and the inability to set up two-factor authentication. Two other researchers and I brainstormed ways to improve cyber hygiene while catering to consumer needs. From paper to user interviews to Adobe XD, we created a medium-level prototype for GlassHouse, a mobile and desktop application with a few different goals. First, we decided that consumers would benefit from an e-commerce feature for quick comparisons of security specs across products. This could be done with a barcode scan, QR code, or text-based product search. Of course, the application would also need to deliver quick and easily digestible updates of attempted attacks across their network and home devices. Finally, we felt that users would appreciate infographic reports of their home network data usage -- a feeling that was confirmed through user interviews. </p>
+			</div>
+		</div>
+	</section>
 <!--<a href="generic.html" class="image">
 			<img src="assets/images/uyi2.png" alt="" data-position="center center" />
 		</a>
