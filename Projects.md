@@ -2,7 +2,7 @@
 layout: post
 title: Projects
 description:
-image: assets/images/groups.jpg
+image: 
 nav-menu: true
 ---
 
@@ -16,7 +16,7 @@ nav-menu: true
 		<!--<header class="major">
 			<h2></h2>
 		</header>-->
-		<p>Here are a few of my most recent hands-on projects.</p>
+		<p></p>
 	<!--</div>
 </section>-->
 
